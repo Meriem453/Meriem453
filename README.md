@@ -7,7 +7,7 @@ _______________________________________                            THERE IS ALWA
 
     </> 👀!
 
-![1566496880_615_تقول-Google-إنه-لن-يكون-هناك-Android-Q-،-بل](https://user-images.githubusercontent.com/75329424/194782066-7a1ee912-c900-4916-b54b-93ede12fa2e0.gif)
+   ![1566496880_615_تقول-Google-إنه-لن-يكون-هناك-Android-Q-،-بل](https://user-images.githubusercontent.com/75329424/194782066-7a1ee912-c900-4916-b54b-93ede12fa2e0.gif)
 
 
 
