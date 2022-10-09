@@ -1,9 +1,11 @@
 _______________________________________                            THERE IS ALWAYS ONE MORE BUG TO FIX !.             __________________________________
 																											 
-- Meriem.
-- 19 Years Old.
-- Computer Science Student.
-- Android App Development.
+🟢 Meriem.
+🟢 19 Years Old.
+🟢 Computer Science Student.
+🟢 Android App Development.
+
+👀
 
 
 
