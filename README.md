@@ -1,18 +1,24 @@
-<h1 align="center">THERE IS ALWAYS ONE MORE BUG TO FIX!<hr></h1>
-<h2 align="center">Hey there</h2>
-<ul >
-<li>Meriem</li>
-<li>19 years old</li>
-<li>Second year computer science student </li>
-<li>I am interested in developing android mobile applications using java</li>
-<li>I am currently learning UI/UX , Kotlin</li>
-<li>In my free time , I solve challenges on Hackerrank and Google Developers</li>
-<li>Fun fact: Fun facts are not funny</li>
-<li>How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a></li>
 
-</ul>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  THERE IS ALWAYS ONE MORE BUG TO FIX  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
+
+<h2 align="center">Hey there:wave:!</h2>
+<div align="center">
+<img src=https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif height=300 width=500/></div>
+
+
+
+ ### :woman_technologist: About Me :
+
+- :triangular_flag_on_post: Meriem.
+- :eyes: 19 years old.
+- :briefcase: Second year computer science student.
+- 📱 I am interested in developing android mobile applications using Java.
+- 💻 I am currently learning UI/UX , Kotlin.
+- 🎲 In my free time , I solve challenges on Hackerrank and Google Developers.
+<!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
+- 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
    
-
+---
 
   <a href="https://www.hackerrank.com/Mezspire">
    <img src="https://user-images.githubusercontent.com/75329424/196059043-3f343118-ec8a-44c2-bd77-c615b10c08c9.png" alt="Hackerrank Badge" height=50/>
@@ -20,11 +26,27 @@
   <a href="https://g.dev/Merdev"><img src="https://user-images.githubusercontent.com/75329424/196059170-6f1eb60d-7d2c-4a78-a0bb-04de4b99853d.png" alt="Google Badge" height=50/>
   </a>
  
+---
 
- 
+### :hammer_and_wrench: Languages and Tools :
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="60" height="60"/>
+   </div>
+   
+---
 
-
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mimspire&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimspire&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
     
     
 
