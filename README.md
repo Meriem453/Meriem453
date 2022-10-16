@@ -1,11 +1,12 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  THERE IS ALWAYS ONE MORE BUG TO FIX  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
 
-<h2 align="center">Hey there:wave:!</h2>
+
 <div align="center">
 <img src=https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif height=300 width=500/></div>
 
 
+<h2 align="center">Hey there:wave:!</h2>
 
  ### :woman_technologist: About Me :
 
