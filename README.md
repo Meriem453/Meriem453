@@ -14,11 +14,13 @@
 - :briefcase: Second year computer science student.
 - 📱 I am interested in developing android mobile applications using Java.
 - 💻 I am currently learning UI/UX , Kotlin.
-- 🎲 In my free time , I solve challenges on Hackerrank and Google Developers.
-<!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
+
+<!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
+
    
 ---
+- 🎲 In my free time , I solve challenges on Hackerrank and Google Developers.
 
   <a href="https://www.hackerrank.com/Mezspire">
    <img src="https://user-images.githubusercontent.com/75329424/196059043-3f343118-ec8a-44c2-bd77-c615b10c08c9.png" alt="Hackerrank Badge" height=50/>
