@@ -47,7 +47,11 @@
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mimspire&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+<br>
+<img align="center" alt="Meriem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mimspire&show_icons=true&hide_border=true&title_color=0ed145&icon_color=0ed145&bg_color=222428&text_color=ffffff&border_color=0ed145" />
+
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimspire&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
     
