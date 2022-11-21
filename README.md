@@ -13,8 +13,8 @@
 - :triangular_flag_on_post: Meriem.
 - :eyes: 19 years old.
 - :briefcase: Second year computer science student.
-- 📱 I am interested in developing android mobile applications using Java.
-- 💻 I am currently learning UI/UX , Kotlin.
+- 📱 I am interested in developing android mobile applications using Kotlin/Java.
+- 💻 I am currently learning UI/UX , FireBase.
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
 - 😜Fun fact : fun facts are not funny.
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
