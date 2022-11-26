@@ -14,7 +14,7 @@
 - :eyes: 19 years old.
 - :briefcase: Second year computer science student.
 - 📱 I am interested in developing android mobile applications using Kotlin/Java.
-- 💻 I am currently learning UI/UX , FireBase.
+- 💻 I am currently learning UI/UX , FireBase , SQLite.
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
 - 😜Fun fact : fun facts are not funny.
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
@@ -35,13 +35,19 @@
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android studio" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="c" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" width="60" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" width="60" height="60"/>
+ 
    </div>
    
 ---
