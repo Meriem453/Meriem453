@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  THERE IS ALWAYS ONE MORE BUG TO FIX  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  There is ALWAYS one more bug to fix  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
 
 
 <div align="center">
@@ -16,7 +16,7 @@
 - 📱 I am interested in developing android mobile applications using Kotlin/Java.
 - 💻 I am currently learning UI/UX , FireBase , SQLite.
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
-- 😜Fun fact : fun facts are not funny.
+- 😜Fun fact : designing is harder than coding for me.
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 
    
