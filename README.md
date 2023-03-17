@@ -1,5 +1,5 @@
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  There is always one more bug to fix  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
+<h2 align="center">There is always one more bug to fix</h1>
 
 
 
