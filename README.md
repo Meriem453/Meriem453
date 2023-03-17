@@ -1,9 +1,10 @@
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  There is ALWAYS one more bug to fix  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/>.  There is always one more bug to fix  .<img src="https://user-images.githubusercontent.com/75329424/196062994-f2d48e41-c194-446a-a3f3-e164447fc938.PNG"  height=40/></h1>
+
 
 
 <div align="center">
-<img src=https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif height=300 width=500/></div>
+<img src=https://user-images.githubusercontent.com/75329424/226069646-5ecbd220-755f-4e49-b297-a8d3356a0ffd.gif height=250 width=250/></div>
 
 
 <h2 align="center">Hey there:wave:!</h2>
@@ -11,17 +12,16 @@
  ### :woman_technologist: About Me :
 
 - :triangular_flag_on_post: Meriem.
-- :eyes: 19 years old.
+- :eyes: 19 yo.
 - :briefcase: Second year computer science student.
 - 📱 Android apps junior developer (Kotlin/Java).
-- 💻 I am currently learning FireBase , SQLite.
+- 💻 I am currently learning FireBase , Clean Architecture.
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
-- 😜Fun fact : designing is harder than coding for me.
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 
    
 ---
-- 🎲 In my free time , I solve challenges on Hackerrank and Google Developers.
+- 🎲 I also like to solve challenges on Hackerrank and Google Developers.
 
   <a href="https://www.hackerrank.com/Mezspire">
    <img src="https://user-images.githubusercontent.com/75329424/196059043-3f343118-ec8a-44c2-bd77-c615b10c08c9.png" alt="Hackerrank Badge" height=50/>
