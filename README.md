@@ -14,7 +14,7 @@
 - :triangular_flag_on_post: Meriem.
 - :eyes: 19 yo.
 - :briefcase: Second year computer science student.
-- 📱 Android apps junior developer (Kotlin/Java).
+- 📱 Android apps developer (Kotlin/Java).
 - 💻 I am currently learning FireBase , Clean Architecture.
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
