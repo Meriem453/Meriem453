@@ -14,7 +14,7 @@
 - :triangular_flag_on_post: Meriem.
 - :eyes: 20 yo.
 - :briefcase: Third year computer science student.
-- 📱 Android apps developer (Kotlin/Java).
+- 📱 Android apps developer (Java/Xml/Jetpack Compose).
 - 💻 I am currently learning Unit/Integration android testing .
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
