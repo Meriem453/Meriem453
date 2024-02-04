@@ -7,7 +7,7 @@
 <img src=https://user-images.githubusercontent.com/75329424/226069646-5ecbd220-755f-4e49-b297-a8d3356a0ffd.gif height=250 width=250/></div>
 
 
-<h2 align="center">Hey there:wave:!</h2>
+<h2 align="center">Hey there👋!</h2>
 
  ### :woman_technologist: About Me :
 
@@ -59,7 +59,7 @@
 <img align="center" alt="Meriem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Meriem453&show_icons=true&hide_border=true&title_color=0ed145&icon_color=0ed145&bg_color=222428&text_color=ffffff&border_color=0ed145" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriem453&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriem453&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
     
     
 
