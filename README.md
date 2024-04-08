@@ -12,7 +12,6 @@
  ### :woman_technologist: About Me :
 
 - :triangular_flag_on_post: Meriem.
-- :eyes: 20 yo.
 - :briefcase: Third year computer science student.
 - 📱 Android apps developer (Java/Xml/Jetpack Compose).
 - 💻 I am currently learning Unit/Integration android testing .
