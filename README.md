@@ -12,14 +12,13 @@
  ### :woman_technologist: About Me :
 
 - :triangular_flag_on_post: Meriem.
-- :briefcase: Third year computer science student.
-- 📱 Android apps developer (Java/Xml/Jetpack Compose).
-- 💻 I am currently learning Unit/Integration android testing .
+- :briefcase: Fourth year computer engineering and cyber security student.
+- 📱 Fullstack software developer.
 - 📧 How to reach me:<a href="m_zemane@estin.dz"> m_zemane@estin.dz</a>
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 
    
----
+<!---
 - 🎲 I also like to solve challenges on Hackerrank and Google Developers.
 
   <a href="https://www.hackerrank.com/Mezspire">
@@ -28,7 +27,7 @@
   <a href="https://g.dev/Merdev"><img src="https://user-images.githubusercontent.com/75329424/196059170-6f1eb60d-7d2c-4a78-a0bb-04de4b99853d.png" alt="Google Badge" height=50/>
   </a>
  
----
+--->
 
 ### :hammer_and_wrench: Languages and Tools :
  <div>
@@ -36,9 +35,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="android" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="android studio" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="60" height="60"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" width="60" height="60"/>
@@ -46,7 +43,19 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" width="60" height="60"/>
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" width="60" height="60"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" width="60" height="60"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" width="60" height="60"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="60" height="60"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" title="jetpack compose" width="60" height="60"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" width="60" height="60"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="60" height="60"/>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" width="60" height="60"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" width="60" height="60"/>
+             <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="webstrom" width="60" height="60"/>
+              <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelIj" width="60" height="60"/>
    </div>
    
 ---
