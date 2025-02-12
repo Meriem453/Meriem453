@@ -61,8 +61,7 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meriem453&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-five-sand.vercel.app?user=Meriem453&theme=android-dark)](https://git.io/streak-stats)
 <br>
 <img align="center" alt="Meriem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Meriem453&show_icons=true&hide_border=true&title_color=0ed145&icon_color=0ed145&bg_color=222428&text_color=ffffff&border_color=0ed145" />
 
