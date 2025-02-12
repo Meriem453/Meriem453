@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src=https://user-images.githubusercontent.com/75329424/226069646-5ecbd220-755f-4e49-b297-a8d3356a0ffd.gif height=250 width=250/></div>
+![image alt](https://github.com/Meriem453/Meriem453/blob/main/hello+world+(0.42KB)_2.gif?raw=true)
 
 
 <h2 align="center">Hey there👋!</h2>
