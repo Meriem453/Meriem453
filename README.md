@@ -12,8 +12,8 @@
 
 - :triangular_flag_on_post: Meriem.
 - :briefcase: Fourth year computer engineering and cyber security student.
-- 📱 Fullstack software developer.
-- 📧 How to reach me:<a href="buis.meriem.03@gmail.com"> m_zemane@estin.dz</a>
+- 📱 Mobile and Backend developer.
+- 📧 How to reach me:<a href="buis.meriem.03@gmail.com"> buis.meriem.03@gmail.com</a>
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 
    
