@@ -17,16 +17,6 @@
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 
    
-<!---
-- 🎲 I also like to solve challenges on Hackerrank and Google Developers.
-
-  <a href="https://www.hackerrank.com/Mezspire">
-   <img src="https://user-images.githubusercontent.com/75329424/196059043-3f343118-ec8a-44c2-bd77-c615b10c08c9.png" alt="Hackerrank Badge" height=50/>
-  </a>
-  <a href="https://g.dev/Merdev"><img src="https://user-images.githubusercontent.com/75329424/196059170-6f1eb60d-7d2c-4a78-a0bb-04de4b99853d.png" alt="Google Badge" height=50/>
-  </a>
- 
---->
 
 ### :hammer_and_wrench: Languages and Tools :
  <div>
