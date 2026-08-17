@@ -33,10 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" width="60" height="60"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" width="60" height="60"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" width="60" height="60"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="60" height="60"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" title="jetpack compose" width="60" height="60"/>
          <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" width="60" height="60"/>
