@@ -13,7 +13,7 @@
 - :triangular_flag_on_post: Meriem.
 - :briefcase: Computer Science / Cybersecurity Engineer.
 - 📱 Mobile and Backend developer.
-- 📧 How to reach me:<a href="buis.meriem.03@gmail.com"> meriemzemane@gmail.com</a>
+- 📧 How to reach me:<a href="buis.meriem.03@gmail.com"> buis.meriem.03@gmail.com</a>
 <!---- :stuck_out_tongue_winking_eye: Fun fact: Fun facts are not funny--->
 
    
